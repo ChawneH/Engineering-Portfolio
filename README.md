@@ -21,9 +21,9 @@ This GitHub serves as my professional portfolio showcasing selected projects, co
 A collection of software projects developed using Visual Studio, demonstrating core programming concepts, application structure, and problem-solving skills.
 
 **Technologies Used:**
-- C#
-- .NET
-- Visual Studio
+- HTML
+- CSS
+- JavaScript
 
 **Highlights:**
 - Object-oriented programming
@@ -38,7 +38,7 @@ A collection of software projects developed using Visual Studio, demonstrating c
 A professionally serviced front-end website project showcasing modern layout design, user interface structure, and responsive styling.
 
 **Technologies Used:**
-- HTML
+- PHP
 - CSS
 - JavaScript
 
@@ -49,10 +49,20 @@ A professionally serviced front-end website project showcasing modern layout des
 
 ---
 
-### 🔹 Personal Website
+### 🔹 Client-Server Programming
 **Live Site:** https://sites.google.com/view/chawne-harris-jr/home  
 **Description:**  
-My Credit for Prior learning website highlighting background, experience, and professional goals.
+This portfolio was created as a Credit for Prior Learning engagement to showcase a profound understanding of client-server programming.
+
+**Technologies Used:**
+- Java
+- Apache for network programming
+- Static and Dynamic hosting
+
+**Highlights:**
+- Ability to Self learn
+- Client side 
+- Java Servlett pages
 
 ---
 
